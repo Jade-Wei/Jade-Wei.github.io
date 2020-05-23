@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Typora常用快捷键及语法</title>
+    <url>/2020/05/23/Typora%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%8F%8A%E8%AF%AD%E6%B3%95/</url>
+    <content><![CDATA[<h1 id="Typora常用快捷键及语法"><a href="#Typora常用快捷键及语法" class="headerlink" title="Typora常用快捷键及语法"></a><a id="more"></a>Typora常用快捷键及语法</h1><ul>
+<li><p>加粗： <code>Ctrl/Cmd + B</code></p>
+</li>
+<li><p>插入代码：<code>Ctrl/Cmd + Shift + K</code></p>
+</li>
+<li><p>标题：<code>Crtl + 123456</code>     或者在文字前加*<em># *</em></p>
+</li>
+<li><p>插入图片：<code>Ctrl/Cmd + Shift + I</code></p>
+</li>
+<li><p>插入链接：<code>Ctrl+K</code></p>
+</li>
+<li><p>清除样式：<code>Ctrl+\</code></p>
+</li>
+<li><p>有序列表：文本前加：“<code>-</code> ”+“空格“</p>
+</li>
+<li><p>行(块)代码：<code>Ctrl+shift+·</code>      注释：“ ` ”是英文状态下 左上角 那个键！</p>
+</li>
+<li><p>插入公式：ctrl+shift+m</p>
+</li>
+</ul>
+<p>$$<br>e^{12}+2/\pi-batch_{size}\times2∈I<br>$$</p>
+<ul>
+<li>行内插入公式：英文状态下，两个金钱符号：$ 2+3\in\R $</li>
+</ul>
+]]></content>
+  </entry>
+  <entry>
+    <title>我的第一篇博客</title>
+    <url>/2020/05/23/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2020/05/23/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a><a id="more"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+]]></content>
+  </entry>
+</search>
